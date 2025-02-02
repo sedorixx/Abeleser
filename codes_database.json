@@ -1,0 +1,35 @@
+{
+  "auflagen": {
+    "A57": "Diese Rad/Reifen-Kombination(en) ist (sind) zuläss ig an Fahrzeugausführungen mit Front bzw. Heck-Antrieb und Allradantrieb (z.B. 2WD, 4WD,  Quattro, Syncro, 4-Matic, 4x4, u. ä.)",
+    "A22": "Es sind nur schlauchlose Reifen zulässig. Werden k eine Ventile mit TPMS-Sensoren verwendet, sind Metallschraubventile, die den Norme n DIN, E.T.R.T.O oder Tire and Rim entsprechen, mit Befestigung von außen zulässig. Fü r Fahrzeugausführungen mit einer bauartbedingten Höchstgeschwindigkeit bis 210 km/h (Fzg.-Schein, Ziff. 6 bzw.",
+    "A56": "Die Rad/Reifen-Kombination ist nur zulässig an Fah rzeugausführungen mit Allradantrieb (z.B. 4WD, Quattro, Syncro, 4-Matic, 4x4 u. ä.)",
+    "A58": "Rad-Reifen-Kombination(en) nicht zulässig an Fahrz eugen mit Allradantrieb.",
+    "A01": "Nach Durchführung der Technischen Änderung ist das  Fahrzeug unter Vorlage der vorliegenden ABE unverzüglich einem amtlich anerkan nten Sachverständigen oder Prüfer für den",
+    "A32": "Es dürfen nur feingliedrige Schneeketten, die nich t mehr als 12 mm einschließlich",
+    "A12": "Die Verwendung von Schneeketten ist nicht zulässig .",
+    "A10": "Es dürfen nur feingliedrige Schneeketten an der Hi nterachse verwendet werden.",
+    "A61": "Nicht zulässig für Fahrzeugausführungen mit extra verlängerter Karosserie (Fahrzeuglänge über 5200 mm).",
+    "A14": "Zum Auswuchten der Räder dürfen an der Felgenaußen seite nur Klebegewichte unterhalb der",
+    "A16": "Zum Auswuchten der Räder dürfen an der Felgeninnen seite nur Klebegewichte unterhalb der",
+    "AHa": "Die Rad/Reifen-Kombination ist zulässig für Fahrze ugausführungen mit Heckantrieb.",
+    "AFa": "Die Rad/Reifen-Kombination ist zulässig für Fahrze ugausführungen mit Frontantrieb."
+  },
+  "hinweise": {
+    "S01": "Zur Befestigung der Räder dürfen nur die mitgelief erten Befestigungsmittel Nr. S01 (siehe",
+    "S02": "Zur Befestigung der Räder dürfen nur die serienmäß igen Befestigungsmittel Nr. S02 (siehe",
+    "S03": "Zur Befestigung der Räder dürfen nur die mitgelief erten Befestigungsmittel Nr. S03 (siehe",
+    "S04": "Zur Befestigung der Räder dürfen nur die mitgelief erten Befestigungsmittel Nr. S04 (siehe",
+    "Car": "Die Rad/Reifen-Kombination ist zulässig für Fahrze ugausführungen der Karosserieform",
+    "F24": "Rad/Reifen-Kombination nur für Fahrzeugausführunge n mit Viel- bzw. Mehrlenkerhinterachse (Einzelradaufhängung).",
+    "B03": "Die Zulässigkeit der Sonderräder ist nicht geprüft  für Fahrzeuge, die serienmäßig ausschließlich mit größeren und/oder breiteren Seri enrädern für Sommerbereifung (nicht M+S Reifen) ausgerüstet sind (u. a. Fahrzeugschein, Zulassungsb escheinigung I, COC-Papier oder Bedienungsanleitung).",
+    "F38": "Rad/Reifenkombination nur zulässig an Fahrzeugausf ührungen mit Luftfederung. § 22  52767§ 22  52767",
+    "F39": "Rad/Reifenkombination nicht zulässig an Fahrzeugau sführungen mit Luftfederung.",
+    "NoE": "Nicht für \"reines\" Elektrofahrzeug bzw. Fahrzeugau sführungen mit Elektroantrieb.",
+    "B90": "Räder nicht zulässig an Fahrzeugausführungen mit B remsscheibendurchmesser 356 mm an",
+    "BnK": "Die Räder sind nicht an Fahrzeugausführungen mit K eramik-Bremsen zulässig."
+  },
+  "templates": [
+    "Dm08-19\"112erET45",
+    "DM08-85x19-5x112-ET45-666"
+  ]
+}
